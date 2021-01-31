@@ -1,0 +1,21 @@
+*{
+    background-color: rgb(51, 45, 45);
+}
+.card{
+    height: 30vh;
+    width: 30px;
+    margin-right: 5rem;
+    background-color: rgb(86, 20, 148);
+}
+.card-img-top{
+    height: 40vh;
+    
+}
+.navbar navbar-expand-lg {
+    height: 30vh;
+    background-color: rgb(15, 199, 174);
+    color: brown;
+}
+.h2{
+    background-color: blue;
+}
